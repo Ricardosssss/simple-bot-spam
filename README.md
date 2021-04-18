@@ -1,4 +1,4 @@
-###A simple python spam bot
+### A simple python spam bot
 
 ## Spam infinito
 - Manda infinitamente a mensagem que o usúario meteu
